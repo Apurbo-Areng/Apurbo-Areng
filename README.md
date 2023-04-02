@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Apurbo Areng</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/126307772/229374702-9ea2cc09-c3b4-41ab-9907-0825b324f22c.png">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/126307772/229374980-382efcb4-49df-4609-8a59-abb1b061b98c.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurbo-areng&label=Profile%20views&color=0e75b6&style=flat" alt="apurbo-areng" /> </p>
 
