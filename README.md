@@ -1,4 +1,4 @@
-![logo](https://github.com/Apurbo-Areng/Apurbo-Areng/blob/main/Github%20Banner%20apu.png)
+![logo](https://github.com/Apurbo-Areng/Apurbo-Areng/blob/main/apu.png)
 <h1 align="center">Hi 👋, I'm Apurbo Areng</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
